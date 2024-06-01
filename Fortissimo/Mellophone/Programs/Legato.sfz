@@ -4,13 +4,193 @@ ampeg_release=0.5
 
 
 <region>
-sample=..\Samples\Solo\D4\F3.wav
+sample=..\Samples\Solo\D1\F3.wav
 
 lokey=0
 hikey=55
 pitch_keycenter=53
 
 lovel=0
+hivel=19
+
+
+
+<region>
+sample=..\Samples\Solo\D1\A3.wav
+
+lokey=56
+hikey=59
+pitch_keycenter=57
+
+lovel=0
+hivel=19
+
+
+
+<region>
+sample=..\Samples\Solo\D1\C4.wav
+
+lokey=60
+hikey=65
+pitch_keycenter=60
+
+lovel=0
+hivel=19
+
+
+
+<region>
+sample=..\Samples\Solo\D1\F4.wav
+
+lokey=66
+hikey=67
+pitch_keycenter=65
+
+lovel=0
+hivel=19
+
+
+
+<region>
+sample=..\Samples\Solo\D1\A4.wav
+
+lokey=68
+hikey=127
+pitch_keycenter=69
+
+lovel=0
+hivel=19
+
+
+
+<region>
+sample=..\Samples\Solo\D2\F3.wav
+
+lokey=0
+hikey=55
+pitch_keycenter=53
+
+lovel=20
+hivel=38
+
+
+
+<region>
+sample=..\Samples\Solo\D2\A3.wav
+
+lokey=56
+hikey=59
+pitch_keycenter=57
+
+lovel=20
+hivel=38
+
+
+
+<region>
+sample=..\Samples\Solo\D2\C4.wav
+
+lokey=60
+hikey=65
+pitch_keycenter=60
+
+lovel=20
+hivel=38
+
+
+
+<region>
+sample=..\Samples\Solo\D2\F4.wav
+
+lokey=66
+hikey=67
+pitch_keycenter=65
+
+lovel=20
+hivel=38
+
+
+
+<region>
+sample=..\Samples\Solo\D2\A4.wav
+
+lokey=68
+hikey=127
+pitch_keycenter=69
+
+lovel=20
+hivel=38
+
+
+
+<region>
+sample=..\Samples\Solo\D3\F3.wav
+
+lokey=0
+hikey=55
+pitch_keycenter=53
+
+lovel=39
+hivel=58
+
+
+
+<region>
+sample=..\Samples\Solo\D3\A3.wav
+
+lokey=56
+hikey=59
+pitch_keycenter=57
+
+lovel=39
+hivel=58
+
+
+
+<region>
+sample=..\Samples\Solo\D3\C4.wav
+
+lokey=60
+hikey=65
+pitch_keycenter=60
+
+lovel=39
+hivel=58
+
+
+
+<region>
+sample=..\Samples\Solo\D3\F4.wav
+
+lokey=66
+hikey=67
+pitch_keycenter=65
+
+lovel=39
+hivel=58
+
+
+
+<region>
+sample=..\Samples\Solo\D3\A4.wav
+
+lokey=68
+hikey=127
+pitch_keycenter=69
+
+lovel=39
+hivel=58
+
+
+
+<region>
+sample=..\Samples\Solo\D4\F3.wav
+
+lokey=0
+hikey=55
+pitch_keycenter=53
+
+lovel=20
 hivel=127
 
 
@@ -22,7 +202,7 @@ lokey=56
 hikey=59
 pitch_keycenter=57
 
-lovel=0
+lovel=20
 hivel=127
 
 
@@ -33,7 +213,7 @@ sample=..\Samples\Solo\D4\C4.wav
 key=60
 pitch_keycenter=60
 
-lovel=0
+lovel=20
 hivel=127
 
 
@@ -45,7 +225,7 @@ lokey=61
 hikey=65
 pitch_keycenter=61
 
-lovel=0
+lovel=20
 hivel=127
 
 
@@ -57,7 +237,7 @@ lokey=66
 hikey=67
 pitch_keycenter=65
 
-lovel=0
+lovel=20
 hivel=127
 
 
@@ -69,7 +249,7 @@ lokey=68
 hikey=127
 pitch_keycenter=69
 
-lovel=0
+lovel=20
 hivel=127
 
 
