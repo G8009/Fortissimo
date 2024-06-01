@@ -1,0 +1,23 @@
+Fortissimo is a marching brass .sfz library compatible with any .sfz player, such as sforzando.
+
+Supported Instruments:
+Trumpet
+Mellophone
+
+Future Supported Instruments:
+Marching Baritone
+Tenor Trombone
+Marching Tuba (Contra)
+
+---------------------------------------------------------------------------------------------------
+HOW TO USE:
+Install Sforzando (https://www.plogue.com/products/sforzando.html) or any .sfz playing VST.
+Load Sforzando in your favorite DAW or Notation Program
+Locate .sfz program file (e.g. Fortissimo/Mellophone/Programs/Legato.sfz)
+Drag the .sfz file into sforzando or any .sfz playing VST.
+
+---------------------------------------------------------------------------------------------------
+
+Notes:
+--Trumpet library is to be soon redone. It will sound better and be formatted properly.
+--Mellophone library is is still a work in progress. Please be patient.
